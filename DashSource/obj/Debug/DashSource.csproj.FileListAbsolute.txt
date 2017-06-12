@@ -1,0 +1,5 @@
+D:\Dev\dot NET\Downloader\DashSource\DashSource\bin\Debug\DashSource.exe.config
+D:\Dev\dot NET\Downloader\DashSource\DashSource\bin\Debug\DashSource.exe
+D:\Dev\dot NET\Downloader\DashSource\DashSource\bin\Debug\DashSource.pdb
+D:\Dev\dot NET\Downloader\DashSource\DashSource\obj\Debug\DashSource.exe
+D:\Dev\dot NET\Downloader\DashSource\DashSource\obj\Debug\DashSource.pdb
