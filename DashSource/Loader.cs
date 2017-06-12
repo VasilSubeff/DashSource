@@ -50,7 +50,7 @@ namespace DashSource
                     while (!pipeReader.EndOfData)
                     {
                         string[] fieldData = pipeReader.ReadFields();
-                        //Making empty value as null
+                        //Making empty value as null.
                         for (int i = 0; i < fieldData.Length; i++)
                         {
                             if (fieldData[i] == "")
